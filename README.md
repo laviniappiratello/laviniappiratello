@@ -9,10 +9,10 @@ Desenvolvedora de Software | Fatec São José dos Campos
 
 </td><td>
 
-<img src="https://github-readme-stats.vercel.app/api?username=laviniappiratello&show_icons=true&title_color=ff69b4&text_color=f5f5f5&icon_color=ff69b4&bg_color=000000&cache_seconds=2300" />
+<img src="https://github-readme-stats.vercel.app/api?username=laviniappiratello&show_icons=true&title_color=007acc&text_color=f5f5f5&icon_color=007acc&bg_color=000000&cache_seconds=2300" />
 
 #### Contatos:
-<a href="mailto:laviniappiratello@gmail.com"><img src="https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/lavinia-piratello-6a82101b1/"><img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:laviniappiratello@gmail.com"><img src="https://img.shields.io/badge/Email-007acc?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/lavinia-piratello-6a82101b1/"><img src="https://img.shields.io/badge/LinkedIn-007acc?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 </td></table>
